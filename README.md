@@ -38,7 +38,7 @@ config
 /aht - Enable/Disable | AutoHGFTimer |
 /ahthelp - Show the help menu.
 /ahtmini - Show the mini help menu.
-/ahthealth - Set the length after a gunfight. E.g. [/ahpchange 11]
+/ahthealth - Set the length after a gunfight. E.g. [/ahtchange 11]
 ```
 
 - **[/ahtchange]** - Allowed Timer Length - 10 seconds -> 20 seconds
