@@ -69,7 +69,7 @@ function main()
 
 		if currentTime == safeSecondsFromNow and amIHit and not noMessage then
 			amIHit = false
-			sampAddChatMessage("{118C4F}| AutoHGFTimer | {FFFFFF}- {22FF22}SAFE To Heal!", 0xFFC100)
+			sampAddChatMessage("{118C4F}| AutoHGFTimer | {FFFFFF}- {22FF22}|---------- SAFE To Heal! ----------|", 0xFFC100)
 			noMessage = false
 		end
 
