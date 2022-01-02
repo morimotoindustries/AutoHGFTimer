@@ -21,7 +21,7 @@
   - ***Note: Don't wanna do this? Fine! - Use*** **[/ahtmini]**
 
 ## Installation
-Download AutoHGFTimer.lua from the [Latest Releases Page](https://github.com/morimotoindustries/AutoHGFTimer/releases/) and copy to the "moonloader" folder located in your GTA:SA Install Folder. The first time you launch GTA:SA a configuration directory and file will be created for the modification.
+Download [AutoHGFTimer.lua](https://github.com/morimotoindustries/AutoHGFTimer/releases/download/v1.0.1/AutoHGFTimer.lua) from the [Latest Releases Page](https://github.com/morimotoindustries/AutoHGFTimer/releases/) and copy to the "moonloader" folder located in your GTA:SA Install Folder. The first time you launch GTA:SA a configuration directory and file will be created for the modification.
 
 ### Modification File & Folder Structure
 ```
