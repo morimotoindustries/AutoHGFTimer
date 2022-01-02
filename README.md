@@ -11,6 +11,8 @@
 
 **| AutoHGFTimer |** is a GTA:SA Moonloader modification that automatically alerts you when it is safe to heal after a gunfight. The timer length is defaulted to 11 seconds on first launch and can be changed and saved permanently by the user.
 
+*Dislcaimer: There's no 100% perfect way to disprove HGF without video evidence. Please use this as a reference and not proof.*
+
 ## Requirements
 - inicfg
 - Moonloader
