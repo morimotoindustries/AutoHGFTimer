@@ -38,6 +38,7 @@ inicfg.save(mainIni, directIni)
 -- END inicfg section
 
 amIHit = false
+noMessage = false
 
 function main()
 	while not isSampAvailable() do wait(100) end -- wait until samp is available and register commands
@@ -113,7 +114,7 @@ function cmdHelp()
 	sampAddChatMessage("{118C4F}/aht {FFFFFF}- Enable/Disable {118C4F}| AutoHGFTimer |", 0xFFC100)
 	sampAddChatMessage("{118C4F}/ahthelp {FFFFFF}- Show the help menu.", 0xFFC100)
 	sampAddChatMessage("{118C4F}/ahpmini {FFFFFF}- Show the mini help menu.", 0xFFC100)
-	sampAddChatMessage("{118C4F}/ahtchange {FFFFFF}- Set the length after a gunfight. E.g. [/ahpchange 11]", 0xFFC100)
+	sampAddChatMessage("{118C4F}/ahtchange {FFFFFF}- Set the length after a gunfight. E.g. [/ahtchange 11]", 0xFFC100)
 	sampAddChatMessage(" ", 0xFFC100)
 	sampAddChatMessage("{FFC100}- Description:", 0xFFC100)
 	sampAddChatMessage("{FFFFFF}This script will automatically alert you when it is safe to heal", 0xFFC100)
@@ -129,5 +130,5 @@ function cmdMiniHelp()
 	sampAddChatMessage("{118C4F}/aht {FFFFFF}- Enable/Disable {118C4F}| AutoHGFTimer |", 0xFFC100)
 	sampAddChatMessage("{118C4F}/ahthelp {FFFFFF}- Show the help menu.", 0xFFC100)
 	sampAddChatMessage("{118C4F}/ahpmini {FFFFFF}- Show the mini help menu.", 0xFFC100)
-	sampAddChatMessage("{118C4F}/ahtchange {FFFFFF}- Set the length after a gunfight. E.g. [/ahpchange 11]", 0xFFC100)
+	sampAddChatMessage("{118C4F}/ahtchange {FFFFFF}- Set the length after a gunfight. E.g. [/ahtchange 11]", 0xFFC100)
 end
