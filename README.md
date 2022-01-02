@@ -26,8 +26,6 @@ Download AutoHGFTimer.lua from the [Latest Releases Page](https://github.com/mor
 AutoHGFTimer.lua
 config
     -Masaharu's Config
-
-
         --AutoHGFTimer.ini
 ```
 
