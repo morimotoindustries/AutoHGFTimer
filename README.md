@@ -23,10 +23,11 @@ Download AutoHGFTimer.lua from the [Latest Releases Page](https://github.com/mor
 
 ### Modification File & Folder Structure
 ```
-AutoHGFTimer.lua
-config
-    -Masaharu's Config
-        --AutoHGFTimer.ini
+moonloader
+  -AutoHGFTimer.lua
+  -config
+      --Masaharu's Config
+          ---AutoHGFTimer.ini
 ```
 
 ***Note: README.md is not required for the modification to work.***
